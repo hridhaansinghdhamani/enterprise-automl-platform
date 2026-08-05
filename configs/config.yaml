@@ -1,0 +1,27 @@
+artifacts_root: artifacts
+
+data_ingestion:
+  root_dir: artifacts/data_ingestion
+  train_path: artifacts/data_ingestion/train.csv
+  test_path: artifacts/data_ingestion/test.csv
+
+data_validation:
+  root_dir: artifacts/data_validation
+  status_file: artifacts/data_validation/status.txt
+
+data_transformation:
+  root_dir: artifacts/data_transformation
+  preprocessor_path: artifacts/data_transformation/preprocessor.pkl
+  train_array_path: artifacts/data_transformation/train.npy
+  test_array_path: artifacts/data_transformation/test.npy
+
+model_trainer:
+  root_dir: artifacts/model_trainer
+  model_path: artifacts/model_trainer/model.pkl
+  leaderboard_path: artifacts/model_trainer/leaderboard.csv
+
+model_evaluation:
+  root_dir: artifacts/model_evaluation
+
+prediction:
+  root_dir: artifacts/prediction

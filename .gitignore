@@ -1,0 +1,50 @@
+# Virtual Environment
+venv/
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+logs/
+*.log
+
+# Models
+saved_models/
+*.pkl
+
+# Artifacts
+artifacts/
+
+# Reports (keep folder, ignore generated files)
+reports/*.pdf
+reports/*.png
+reports/*.csv
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# OS Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Build
+build/
+dist/
+*.egg-info/
+
+# Streamlit
+.streamlit/secrets.toml

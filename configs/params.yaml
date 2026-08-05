@@ -1,0 +1,13 @@
+random_state: 42
+
+test_size: 0.20
+
+cv: 2
+
+n_trials: 2
+
+classification_threshold: 10
+
+imbalance_threshold: 0.20
+
+mode: development

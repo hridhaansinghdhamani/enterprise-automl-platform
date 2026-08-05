@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+artifacts/
+logs/
+reports/
+saved_models/
+.ipynb_checkpoints/

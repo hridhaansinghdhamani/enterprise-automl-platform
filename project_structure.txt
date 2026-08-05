@@ -1,0 +1,173 @@
+Folder PATH listing for volume Windows
+Volume serial number is 00000068 A4AC:9906
+C:.
+¦   .dockerignore
+¦   .gitignore
+¦   api.py
+¦   app.py
+¦   docker-compose.yml
+¦   Dockerfile
+¦   predict.py
+¦   project_structure.txt
+¦   README.md
+¦   requirements.txt
+¦   run_api.py
+¦   run_training.py
+¦   setup.py
+¦   train.py
+¦   upper
+¦   
++---.github
+¦   +---workflows
+¦           ci.yml
+¦           
++---artifacts
+¦   +---data_transformation
+¦           preprocessor.pkl
+¦           
++---configs
+¦       config.yaml
+¦       params.yaml
+¦       schema.yaml
+¦       
++---data
+¦       upload.csv
+¦       WA_Fn-UseC_-Telco-Customer-Churn.csv
+¦       
++---deployment
++---docs
+¦   +---diagrams
+¦   +---images
++---logs
+¦       2026-07-11_01-50-08.log
+¦       2026-07-11_01-56-11.log
+¦       2026-07-11_02-02-19.log
+¦       2026-07-11_02-13-01.log
+¦       2026-07-11_02-29-17.log
+¦       2026-07-11_02-40-48.log
+¦       2026-07-11_02-47-27.log
+¦       2026-07-11_02-59-00.log
+¦       2026-07-11_15-35-06.log
+¦       2026-07-11_15-38-14.log
+¦       2026-07-12_00-43-12.log
+¦       2026-07-12_00-48-26.log
+¦       2026-07-13.log
+¦       
++---notebooks
++---reports
++---saved_models
++---screenshots
++---src
+¦   ¦   .gitignore
+¦   ¦   app.py
+¦   ¦   docker-compose.yml
+¦   ¦   Dockerfile
+¦   ¦   predict.py
+¦   ¦   README.md
+¦   ¦   requirements.txt
+¦   ¦   train.py
+¦   ¦   __init__.py
+¦   ¦   
+¦   +---cloud
+¦   ¦       __init__.py
+¦   ¦       
+¦   +---components
+¦   ¦       artifact_exporter.py
+¦   ¦       artifact_manager.py
+¦   ¦       automl_engine.py
+¦   ¦       cardinality_analyzer.py
+¦   ¦       datatype_optimizer.py
+¦   ¦       data_cleaner.py
+¦   ¦       data_ingestion.py
+¦   ¦       data_profiler.py
+¦   ¦       data_profiling.py
+¦   ¦       data_splitter.py
+¦   ¦       data_transformation.py
+¦   ¦       data_validation.py
+¦   ¦       drift_monitor.py
+¦   ¦       duplicate_handler.py
+¦   ¦       explainability.py
+¦   ¦       feature_encoder.py
+¦   ¦       feature_engineering.py
+¦   ¦       feature_generator.py
+¦   ¦       feature_importance.py
+¦   ¦       feature_reducer.py
+¦   ¦       feature_scaler.py
+¦   ¦       feature_selection.py
+¦   ¦       feature_selector.py
+¦   ¦       id_column_detector.py
+¦   ¦       metrics_engine.py
+¦   ¦       missing_value_handler.py
+¦   ¦       mlflow_tracker.py
+¦   ¦       model_evaluation.py
+¦   ¦       model_factory.py
+¦   ¦       model_monitor.py
+¦   ¦       model_registry.py
+¦   ¦       model_trainer.py
+¦   ¦       model_versioning.py
+¦   ¦       optuna_tuner.py
+¦   ¦       outlier_detector.py
+¦   ¦       outlier_handler.py
+¦   ¦       prediction_service.py
+¦   ¦       preprocessor.py
+¦   ¦       problem_detector.py
+¦   ¦       report_dashboard.py
+¦   ¦       report_generator.py
+¦   ¦       schema_generator.py
+¦   ¦       smote_handler.py
+¦   ¦       __init__.py
+¦   ¦       
+¦   +---configuration
+¦   ¦       configuration.py
+¦   ¦       __init__.py
+¦   ¦       
+¦   +---constants
+¦   ¦       application.py
+¦   ¦       __init__.py
+¦   ¦       
+¦   +---dashboard
+¦   +---deployment
+¦   +---engines
+¦   +---entity
+¦   ¦       artifact_entity.py
+¦   ¦       config_entity.py
+¦   ¦       __init__.py
+¦   ¦       
+¦   +---exception
+¦   ¦       exception.py
+¦   ¦       __init__.py
+¦   ¦       
+¦   +---feature_engineering
+¦   +---logger
+¦   ¦       logger.py
+¦   ¦       __init__.py
+¦   ¦       
+¦   +---monitoring
+¦   ¦       __init__.py
+¦   ¦       
+¦   +---pipeline
+¦   ¦       batch_prediction.py
+¦   ¦       prediction_pipeline.py
+¦   ¦       training_pipeline.py
+¦   ¦       __init__.py
+¦   ¦       
+¦   +---pipelines
+¦   +---profiling
+¦   +---reports
+¦   ¦       __init__.py
+¦   ¦       
+¦   +---services
+¦   +---tracking
+¦   +---utils
+¦   ¦       common.py
+¦   ¦       utils.py
+¦   ¦       __init__.py
+¦   ¦       
+¦   +---validation
+¦   ¦       __init__.py
+¦   ¦       
+¦   +---validators
+¦   +---visualization
+¦           __init__.py
+¦           
++---tests
