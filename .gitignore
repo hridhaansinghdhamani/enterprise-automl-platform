@@ -48,3 +48,5 @@ dist/
 
 # Streamlit
 .streamlit/secrets.toml
+
+catboost_info/
