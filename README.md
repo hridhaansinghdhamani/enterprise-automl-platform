@@ -50,6 +50,16 @@ The project follows a modular enterprise architecture, making it easy to maintai
 
 ---
 
+## 🚀 Highlights
+
+- Automatic Classification & Regression
+- 5 ML Models + Optuna
+- SHAP Explainability
+- Batch Prediction
+- FastAPI
+- Streamlit
+- Docker
+
 # ✨ Features
 
 ## 📂 Data Pipeline
@@ -304,6 +314,12 @@ enterprise-automl-platform/
 - Docker Compose
 
 ---
+### 🏆 Best Model
+
+- CatBoost
+- CV Score: 0.8085
+- Training Time: XX sec
+
 
 # 🚀 Installation
 
